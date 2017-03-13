@@ -14,7 +14,26 @@ Download the mac disc image DMG from [git-scm.com](http://git-scm.com/download/m
 3. Get the Solidity VSC plug-in
 Within VSC Open the extensions list by clicking View/Extensions from the menu.  Type “solidity” into the search box and you should be presented with the “Ethereum Solidity Language for Visual Studio Code” by Juan Blanco plug-in; click “install”
 4. Install HomeBrew
-following the instructions to install Xcode and HomeBrew from [coolestguidesontheplanet.com](https://coolestguidesontheplanet.com/installing-homebrew-on-os-x-el-capitan-10-11-package-manager-for-unix-apps/)
+I followed the instructions from [coolestguidesontheplanet.com](https://coolestguidesontheplanet.com/installing-homebrew-on-os-x-el-capitan-10-11-package-manager-for-unix-apps/)
+* Install XCode from [Apple](https://itunes.apple.com/au/app/xcode/id497799835?mt=12&ign-mpt=uo%3D4)
+* Install the XCode comamd line tools by opening a terminal window and typing
+
+```bash
+xcode-select --install
+```
+
+* install the HomeBrew system.
+
+```bash
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+* After installatoin check for any issues with the installation process
+
+```bash
+brew doctor
+brew update
+```
 
 ## Get the Ethereum specific Software
 * Install Geth

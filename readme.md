@@ -35,8 +35,10 @@ mkdir Development
 cd Development
 git clone https://github.com/richardagreene/PerthEthereumMeetup.git
 ```
+
+
 All the required code should download onto your Mac.
 
-8. Your done!  
+### Your done!  
 
 Any contributions and suggestions are welcome!

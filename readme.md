@@ -1,5 +1,5 @@
 # Perth Ethereum Meetup 
-As part of a presentation on Smart Contracts; the following are the instructions for setting up your own Ethereum development environment up and running.  These steps will take place about 20 minutes if all goes well.
+As part of a presentation on Smart Contracts; the following are the instructions for setting up your own Ethereum development environment up and running.  These steps will take about 20 minutes if all goes well.
 
 ##Assumptions
 1. You are running on Mac OSX version 10.10+

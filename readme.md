@@ -19,23 +19,23 @@ following the instructions to install Xcode and HomeBrew from [coolestguidesonth
 ## Get the Ethereum specific Software
 5. Install Geth
 The easiest way to install GETH on a Mac is to use HomeBrew.  Open a terminal window and type:
+
 ```bash
 brew tap ethereum/ethereum
 brew install ethereum
 ```
-
 6. Install Mist Wallet
 Go to the Mist [release page](https://github.com/ethereum/mist/releases) and click on the latest version of Mac OSx (e.g. Ethereum-Wallet-macosx-0-8-9.dmg). Open the downloaded DMG file and mount the drive; then drag the application to your Applications folder.  Using finder, enter 'mist', on first execution will be asked to confirm execution, click “open”.
 
 7. Get a copy of the code
 Open a terminal window and type the following to create a development directory
+
 ```bash
 cd ~/Documents/
 mkdir Development
 cd Development
 git clone https://github.com/richardagreene/PerthEthereumMeetup.git
 ```
-
 
 All the required code should download onto your Mac.
 

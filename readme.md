@@ -15,9 +15,8 @@ sudo <command>
 ##Prerequisite
 1. Install the latest version of GIT
 Download the Mac disc image DMG from [git-scm.com](http://git-scm.com/download/mac) and start the install process.  If you receive a security notification saying the code is unsigned; Go to System Preference/Security dialogue and you should see an option to “Open Anyway”.  Mount the downloaded DMG file and click the git pkg file.  Then simply follow all the onscreen prompts, taking all the defaults.
-2. Install Visual Studio Code (VSC), note that any other text editor can be used however VSC has a helpful Solidity plug-in which will be used as part of the course. Download the binary from [Microsoft](https://code.visualstudio.com/download) and once complete, copy the file to your Applications Folder.  Start the application using Mac Finder or by double clicking the icon in your Application folder.  You may be asked to confirm opening the file when firt used, if this happens click “Open". 
-3. Get the Solidity VSC plug-in
-Within VSC Open the extensions list by clicking View/Extensions from the menu.  Type “solidity” into the search box and you should be presented with the “Ethereum Solidity Language for Visual Studio Code” by Juan Blanco plug-in; click “install”
+2. Install Visual Studio Code (VSC); note that any other text editor can be used however VSC has a helpful Solidity plug-in which will be used as part of the course. Download the binary from [Microsoft](https://code.visualstudio.com/download) and once complete, copy the file to your Applications Folder.  Start the application using Mac Finder or by double clicking the icon in your Application folder.  You may be asked to confirm opening the file when firt used, if this happens click “Open". 
+3. Get the Solidity VSC plug-in; from within VSC Open the extensions list by clicking View/Extensions from the menu.  Type “solidity” into the search box and you should be presented with the “Ethereum Solidity Language for Visual Studio Code” by Juan Blanco plug-in; click “install”
 4. Install HomeBrew
 I followed the instructions from [coolestguidesontheplanet.com](https://coolestguidesontheplanet.com/installing-homebrew-on-os-x-el-capitan-10-11-package-manager-for-unix-apps/)
 * First Install XCode from [Apple](https://itunes.apple.com/au/app/xcode/id497799835?mt=12&ign-mpt=uo%3D4)

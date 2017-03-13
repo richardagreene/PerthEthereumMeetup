@@ -1,0 +1,2 @@
+cd ~/Library/Ethereum
+geth --preload "/Users/richardagreene/Documents/Development/PerthEthereumMeetup/deployment/registerContract.js" --rpccorsdomain "*" --rpcapi "eth,web3,personal,net,miner,admin" --ipcapi "eth,web3,personal,net,miner,admin" --datadir "~/Documents/Development/PerthEthereumMeetup/devChain" --dev attach ipc:geth.ipc console

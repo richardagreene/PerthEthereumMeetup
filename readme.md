@@ -17,17 +17,17 @@ Within VSC Open the extensions list by clicking View/Extensions from the menu.  
 following the instructions to install Xcode and HomeBrew from [coolestguidesontheplanet.com](https://coolestguidesontheplanet.com/installing-homebrew-on-os-x-el-capitan-10-11-package-manager-for-unix-apps/)
 
 ## Get the Ethereum specific Software
-5. Install Geth
+* Install Geth
 The easiest way to install GETH on a Mac is to use HomeBrew.  Open a terminal window and type:
 
 ```bash
 brew tap ethereum/ethereum
 brew install ethereum
 ```
-6. Install Mist Wallet
+* Install Mist Wallet
 Go to the Mist [release page](https://github.com/ethereum/mist/releases) and click on the latest version of Mac OSx (e.g. Ethereum-Wallet-macosx-0-8-9.dmg). Open the downloaded DMG file and mount the drive; then drag the application to your Applications folder.  Using finder, enter 'mist', on first execution will be asked to confirm execution, click “open”.
 
-7. Get a copy of the code
+* Get a copy of the code
 Open a terminal window and type the following to create a development directory
 
 ```bash

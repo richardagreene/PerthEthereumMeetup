@@ -6,6 +6,11 @@ As part of a presentation on Smart Contracts; the following are the instructions
 2. You've some expereience of using the OSX Command Line Interface (CLI) and Terminal
 3. Your willing to risk installing early stage development code. 
 > Only attempt this if you feel confident as we can take no resonsibility for any negative impact on your machine after installing these services.
+4. You understand how to use elevated permissions on the Mac using the 'sudo' command.  This will occure if you see the "Error: Permission denied" error.
+
+```bash
+sudo <command>
+```
 
 ##Prerequisite
 1. Install the latest version of GIT

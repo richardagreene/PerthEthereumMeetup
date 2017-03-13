@@ -21,7 +21,7 @@ Download the Mac disc image DMG from [git-scm.com](http://git-scm.com/download/m
 
 * First Install XCode from [Apple](https://itunes.apple.com/au/app/xcode/id497799835?mt=12&ign-mpt=uo%3D4)
 
-* Then Install the XCode comamd line tools by opening a terminal window and typing
+* Then Install the XCode command line tools by opening a terminal window and typing
 
 ```bash
 xcode-select --install

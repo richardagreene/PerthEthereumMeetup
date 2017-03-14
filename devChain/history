@@ -506,3 +506,6 @@ function(e, contract){
     }
 })
 console.log('Completed contract deployment.....');
+help
+?
+loadscript("sdf");

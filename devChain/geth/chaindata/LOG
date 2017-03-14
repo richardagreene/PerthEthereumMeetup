@@ -1,40 +1,40 @@
 =============== Mar 14, 2017 (AWST) ===============
-09:53:25.809323 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
-09:53:25.814568 db@open opening
-09:53:25.817317 version@stat F·[] S·0B[] Sc·[]
-09:53:25.817650 db@janitor F·2 G·0
-09:53:25.817675 db@open done T·3.085447ms
-09:53:25.818420 db@close closing
-09:53:25.823248 db@close done T·4.816995ms
+16:01:45.557318 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:01:45.562720 db@open opening
+16:01:45.564436 version@stat F·[] S·0B[] Sc·[]
+16:01:45.564794 db@janitor F·2 G·0
+16:01:45.564819 db@open done T·2.07586ms
+16:01:45.565685 db@close closing
+16:01:45.570342 db@close done T·4.648848ms
 =============== Mar 14, 2017 (AWST) ===============
-09:53:25.828812 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
-09:53:25.830620 version@stat F·[] S·0B[] Sc·[]
-09:53:25.831053 db@open opening
-09:53:25.831170 journal@recovery F·1
-09:53:25.831840 journal@recovery recovering @1
-09:53:25.845170 version@stat F·[] S·0B[] Sc·[]
-09:53:25.852556 db@janitor F·2 G·0
-09:53:25.852598 db@open done T·21.519726ms
+16:01:45.577669 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:01:45.579486 version@stat F·[] S·0B[] Sc·[]
+16:01:45.579918 db@open opening
+16:01:45.580027 journal@recovery F·1
+16:01:45.580792 journal@recovery recovering @1
+16:01:45.596517 version@stat F·[] S·0B[] Sc·[]
+16:01:45.604225 db@janitor F·2 G·0
+16:01:45.604255 db@open done T·24.325816ms
 =============== Mar 14, 2017 (AWST) ===============
-09:53:25.961411 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
-09:53:25.962826 version@stat F·[] S·0B[] Sc·[]
-09:53:25.963237 db@open opening
-09:53:25.963350 journal@recovery F·1
-09:53:25.964414 journal@recovery recovering @2
-09:53:25.969924 memdb@flush created L0@4 N·9 S·634B "H\xc9+..Y\x8dk,v5":"sec..\x13^X,v1"
-09:53:25.970738 version@stat F·[1] S·634B[634B] Sc·[0.25]
-09:53:25.977556 db@janitor F·3 G·0
-09:53:25.977592 db@open done T·14.338895ms
-09:53:25.978610 db@close closing
-09:53:25.983288 db@close done T·4.666907ms
+16:01:45.715026 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:01:45.716531 version@stat F·[] S·0B[] Sc·[]
+16:01:45.716967 db@open opening
+16:01:45.717082 journal@recovery F·1
+16:01:45.717959 journal@recovery recovering @2
+16:01:45.723845 memdb@flush created L0@4 N·9 S·634B "H\xc9+..Y\x8dk,v5":"sec..\x13^X,v1"
+16:01:45.724906 version@stat F·[1] S·634B[634B] Sc·[0.25]
+16:01:45.732116 db@janitor F·3 G·0
+16:01:45.732161 db@open done T·15.172481ms
+16:01:45.733177 db@close closing
+16:01:45.738064 db@close done T·4.879956ms
 =============== Mar 14, 2017 (AWST) ===============
-09:53:25.993843 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
-09:53:25.995341 version@stat F·[1] S·634B[634B] Sc·[0.25]
-09:53:25.995774 db@open opening
-09:53:25.995917 journal@recovery F·1
-09:53:26.010051 journal@recovery recovering @5
-09:53:26.024346 version@stat F·[1] S·634B[634B] Sc·[0.25]
-09:53:26.031597 db@janitor F·3 G·0
-09:53:26.031632 db@open done T·35.842525ms
-10:52:53.546565 db@close closing
-10:52:53.557016 db@close done T·10.445934ms
+16:01:45.748792 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+16:01:45.750348 version@stat F·[1] S·634B[634B] Sc·[0.25]
+16:01:45.750788 db@open opening
+16:01:45.750916 journal@recovery F·1
+16:01:45.765507 journal@recovery recovering @5
+16:01:45.782085 version@stat F·[1] S·634B[634B] Sc·[0.25]
+16:01:45.789628 db@janitor F·3 G·0
+16:01:45.789660 db@open done T·38.85873ms
+16:32:31.018467 db@close closing
+16:32:31.025553 db@close done T·7.079513ms

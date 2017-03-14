@@ -1,6 +1,6 @@
 pragma solidity 0.4.9;
 
-contract greeter {
+contract greeter-improved {
     /* define variable greeting of the type string */
     string greeting;
     /* Define variable owner of the type address*/
@@ -21,5 +21,13 @@ contract greeter {
     function greet() constant returns (string) {
         // return the value set on creation
         return greeting;
+    }
+
+    // Set the greeting to a new value
+    function setGreeting(string greeting ) {
+        // set the new value for the greeting if called by the owner
+        if (msg.sender == owner) {
+            _greeting = greeting;
+        }
     }
 }

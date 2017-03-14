@@ -1,8 +1,6 @@
-=============== Mar 13, 2017 (AWST) ===============
-16:23:31.154578 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
-16:23:31.166543 db@open opening
-16:23:31.167194 version@stat F·[] S·0B[] Sc·[]
-16:23:31.167590 db@janitor F·2 G·0
-16:23:31.167611 db@open done T·1.050961ms
-17:06:18.873017 db@close closing
-17:06:18.874277 db@close done T·1.25362ms
+=============== Mar 14, 2017 (AWST) ===============
+09:53:28.502002 log@legend F·NumFile S·FileSize N·Entry C·BadEntry B·BadBlock Ke·KeyError D·DroppedEntry L·Level Q·SeqNum T·TimeElapsed
+09:53:28.508709 db@open opening
+09:53:28.509425 version@stat F·[] S·0B[] Sc·[]
+09:53:28.509931 db@janitor F·2 G·0
+09:53:28.509958 db@open done T·1.227881ms

@@ -85,13 +85,20 @@ bash startConsole.sh
 ```
 ![terminal view](https://github.com/richardagreene/PerthEthereumMeetup/blob/master/presentation/consoleshot.png)
 
+
 Keep a note of the Contract Address that's diplayed a few seconds later as you'll need this for Mist.
 
-Start the "Mist" Wallet
-Click Contract at the top of the page
-Click Watch Contract
-![Mist view](https://github.com/richardagreene/PerthEthereumMeetup/blob/master/presentation/mistshot.png)
 
+Start the "Mist" Wallet
+
+
+Click Contract at the top of the page
+
+
+Click Watch Contract
+
+
+![Mist view](https://github.com/richardagreene/PerthEthereumMeetup/blob/master/presentation/mistshot.png)
 
 ### Online Compiler
 If you have any issues with compiling or don't want to use Visual Studio Code, try the [online compiler](https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.10+commit.f0d539ae.js)

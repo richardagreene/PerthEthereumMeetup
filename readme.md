@@ -83,7 +83,7 @@ When deploying a contract, start a new Terminal window, making sure to keep your
 cd ~/Documents/Development/PerthEthereumMeetup/
 bash startConsole.sh
 ```
-![terminal view](https://github.com/richardagreene/PerthEthereumMeetup/blob/master/presentation/consoleshot.png")
+![terminal view](https://github.com/richardagreene/PerthEthereumMeetup/blob/master/presentation/consoleshot.png)
 
 Keep a note of the Contract Address that's diplayed a few seconds later as you'll need this for Mist.
 

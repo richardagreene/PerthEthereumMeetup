@@ -1,3 +1,5 @@
+#!/bin/bash
+clear
 cd ~/Documents/Development/PerthEthereumMeetup
 rm ~/Library/Ethereum/geth.ipc
 rm -rf devChain/geth/chainData

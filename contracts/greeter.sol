@@ -1,4 +1,4 @@
-pragma solidity 0.4.9;
+pragma solidity 0.4.10;
 
 contract greeter {
     /* define variable greeting of the type string */

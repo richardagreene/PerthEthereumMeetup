@@ -67,4 +67,34 @@ git clone https://github.com/richardagreene/PerthEthereumMeetup.git
 
 All the required code should now be downloaded to your Mac, ready for the meetup.
 
+### Getting up and running
+
+#### Startup up your Ethereum Node and console
+
+Open a terminal window and type the following:
+```bash
+cd ~/Documents/Development/PerthEthereumMeetup/
+bash startMiner.sh
+```
+![terminal view](https://github.com/richardagreene/PerthEthereumMeetup/presentation/minershot.png "Your Mining operation")
+
+When deploying a contract, start a new Terminal window, making sure to keep your mining session running in the other.
+```bash
+cd ~/Documents/Development/PerthEthereumMeetup/
+bash startConsole.sh
+```
+![terminal view](https://github.com/richardagreene/PerthEthereumMeetup/presentation/consoleshot.png "Your deployed contract")
+
+Keep a note of the Contract Address that's diplayed a few seconds later as you'll need this for Mist.
+
+Start the "Mist" Wallet
+Click Contract at the top of the page
+Click Watch Contract
+![Mist view](https://github.com/richardagreene/PerthEthereumMeetup/presentation/consoleshot.png "watch contract")
+
+
+### Online Compiler
+If you have any issues with compiling or don't want to use Visual Studio Code, try the [online compiler](https://ethereum.github.io/browser-solidity/#version=soljson-v0.4.10+commit.f0d539ae.js)
+
+
 Any contributions and suggestions are welcome!

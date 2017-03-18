@@ -3,7 +3,9 @@ pragma solidity 0.4.9;
 contract cashHolder {
     /* Define variable owner of the type address*/
     address public _owner;
+    /* Define variable to hold the amount raised*/
     uint public amountRaised;
+    /* Define a public event */
     event FundsTransfer(address backer, uint amount);
 
     /* Collection of shareHolders */

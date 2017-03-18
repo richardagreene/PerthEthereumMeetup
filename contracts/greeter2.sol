@@ -13,7 +13,7 @@ contract greeter2 {
     function greeter2() public {
         // set the owner to be the creator of the contract
         _owner = msg.sender;
-        // this time we don't set the value
+        // this time we don't set the value on creation
         //greeting = _greeting;
     }
 
@@ -29,7 +29,6 @@ contract greeter2 {
     // when required
     // *******************************
     function setGreeting(string greeting ) {
-        // set the new value for the greeting if called by the owner
         _greeting = greeting;
     }
 }

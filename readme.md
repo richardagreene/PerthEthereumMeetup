@@ -76,21 +76,21 @@ Open a terminal window and type the following:
 cd ~/Documents/Development/PerthEthereumMeetup/
 bash startMiner.sh
 ```
-![terminal view](https://github.com/richardagreene/PerthEthereumMeetup/blob/master/presentation/minershot.png =500x)
+![terminal view](https://github.com/richardagreene/PerthEthereumMeetup/blob/master/presentation/minershot.png)
 
 When deploying a contract, start a new Terminal window, making sure to keep your mining session running in the other.
 ```bash
 cd ~/Documents/Development/PerthEthereumMeetup/
 bash startConsole.sh
 ```
-![terminal view](https://github.com/richardagreene/PerthEthereumMeetup/blob/master/presentation/consoleshot.png =500x)
+![terminal view](https://github.com/richardagreene/PerthEthereumMeetup/blob/master/presentation/consoleshot.png)
 
 Keep a note of the Contract Address that's diplayed a few seconds later as you'll need this for Mist.
 
 Start the "Mist" Wallet
 Click Contract at the top of the page
 Click Watch Contract
-![Mist view](https://github.com/richardagreene/PerthEthereumMeetup/blob/master/presentation/mistshot.png =500x)
+![Mist view](https://github.com/richardagreene/PerthEthereumMeetup/blob/master/presentation/mistshot.png)
 
 
 ### Online Compiler

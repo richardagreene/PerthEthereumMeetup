@@ -4,6 +4,10 @@ baseContractAbi=<add your interface here>
 
 baseContractBytecode='0x<add to binary here>';
 
+// Verify this at any stage using 
+//    eth.getCode("<contract address>")
+//
+
 var _greeting = "Hello World!";
 var greeterContract = web3.eth.contract(baseContractAbi);
 var greeter = greeterContract.new(

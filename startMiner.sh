@@ -9,7 +9,7 @@ rm -rf devchain/geth/nodekey
 rm  devchain/geth/LOCK
 
 # remove Ethereum wallet details
-rm -rf '~/Library/Application Support/Ethereum Wallet/IndexedDB/'
+rm -rf ~/Library/Application\ Support/Ethereum\ Wallet/IndexedDB/
 
 # start mining
 geth  --datadir=devChain init genesis_dev.json
